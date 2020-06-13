@@ -1,0 +1,1 @@
+将lua文件放入/usr/lib/lua/luci/controller/dnsmasqswitch里即可，然后重启路由
